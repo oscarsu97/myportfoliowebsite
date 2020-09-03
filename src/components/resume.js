@@ -4,6 +4,7 @@ import Education from './education';
 import Experience from './experience';
 import Skills from './skills';
 import profile_photo_cny from './img/profile_photo_cny.jpg';
+import formal_1 from './img/formal_1.jpg';
 
 class Resume extends Component {
     render() {
@@ -13,10 +14,10 @@ class Resume extends Component {
                     <Cell col={3}>
                     <div style={{textAlign: 'center'}}>
                     <img 
-                        src={profile_photo_cny} 
+                        src={formal_1} 
                         alt="profile-photo" 
                         className="profile-photo"
-                        style= {{height: '300px', width:'300px', marginTop: '75%'}}
+                        style= {{height: '250px', width:'250px', marginTop: '75%'}}
                         />
                         
                         </div>

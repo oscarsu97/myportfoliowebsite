@@ -23,6 +23,7 @@ class Project extends Component {
                     </div>
                     <CardActions border>
                         <Button colored href="https://github.com/oscarsu97/orbital">Github</Button>
+                        <Button colored href="https://www.dropbox.com/s/4rtq9fevgfgfnum/TET.mp4?dl=0">Video Demo</Button>
                     </CardActions>
                     <CardMenu style={{color: 'black'}}>
                     </CardMenu>
